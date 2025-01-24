@@ -25,7 +25,7 @@
 ##
 
 <div>
-  <a href="(https://www.youtube.com/@JuliaJfn)" target="_blank">
+  <a href="https://www.youtube.com/@JuliaJfn" target="_blank"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
   </a>
   <a href="https://instagram.com/julia.jfn" target="_blank">
